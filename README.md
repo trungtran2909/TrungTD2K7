@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=TRẦN+ĐỨC+TRUNG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=55&duration=2000&pause=0&color=FF0000&center=true&vCenter=true&repeat=false&width=1200&lines=TRẦN+ĐỨC+TRUNG" />
 </p>
 
 <p align="center">
-Quietly learning. Consistently building. Eventually leading.
+  Quietly learning. Consistently building. Eventually leading.
 </p>
 
 ---
@@ -13,4 +13,3 @@ Quietly learning. Consistently building. Eventually leading.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,linux&theme=dark" />
 </p>
-readme-typing-svg.herokuapp.com
